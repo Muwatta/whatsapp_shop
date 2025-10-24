@@ -1,0 +1,15 @@
+_pycache_/
+*.pyc
+
+Ignore virtual environment
+env/
+venv/
+
+Ignore VSCode settings
+.vscode/
+
+Ignore secrets or configs
+*.env
+config.json
+
+
