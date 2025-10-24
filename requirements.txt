@@ -1,0 +1,10 @@
+django
+djangorestframework
+requests
+python-decouple
+psycopg2-binary
+reportlab
+qrcode
+pillow
+gunicorn
+ngrok-client
